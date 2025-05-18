@@ -1,4 +1,4 @@
-# Mini Calculatrice en 
+# Mini Calculatrice en C
 
 Ce projet est une simple calculatrice en ligne de commande écrite en langage C. Elle permet d'effectuer les opérations arithmétiques de base : l'addition (+), la soustraction (-), la multiplication (*), et la division (/).  Le programme gère les erreurs de division par zéro et les opérateurs non valides.
 
